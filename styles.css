@@ -973,11 +973,11 @@ footer .copyright {
     background-position: 55%;
   }
   #feature {
-    justify-content: space-between;
+    justify-content: space-around;
   }
   #feature .fe-box {
     width: 155px;
-    margin: 10 0 15px 10;
+    margin: 0 0 15px 0;
   }
   #product1 .pro {
     width: 100%;
